@@ -1,5 +1,5 @@
 # Pluto-Obfuscator
-Pluto-Obfuscator is a code obfuscator based on LLVM 12.0.1 and its LLVM Pass framework. Briefly speaking, Pluto-Obfuscator converts the source code into a functionally equivalent but much less understandable version at compile-time, protecting your software from reverse engineering.
+Pluto-Obfuscator is a code obfuscator based on LLVM 12.0.1 and its LLVM Pass framework. Briefly speaking, Pluto-Obfuscator converts the source code into a functionally equivalent but much less understandable version at compile-time, protecting your software from reverse engineering. This version can support compiling C code into Wasm.
 > The documentation of Pluto-Obfuscator is still lacking. I will work on it when I am available.
 
 ## Features
